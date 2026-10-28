@@ -1,0 +1,5 @@
+sorting
+__pycache__/
+*.pyc
+run.log
+node_modules/
